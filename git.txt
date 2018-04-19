@@ -1,0 +1,9 @@
+git init 
+
+git clone ´ÓÔ¶³Ì²Ö¿â¿ËÂ¡
+
+git add *
+
+git commit 
+
+git push origin master
